@@ -35,7 +35,7 @@ The application follows a layered architecture:
 - Reminder
 - Statistics
 
-## 🛠️ Technologies
+## Technologies
 
 - Java 17
 - Spring Boot 3
