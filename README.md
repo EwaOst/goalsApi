@@ -64,6 +64,6 @@ The application follows a layered architecture:
 
 Additional REST endpoints are available for managing users, habits, reminders, and statistics.
 
-## 🎯 Project Goal
+## Project Goal
 
 The project demonstrates backend development with Spring Boot by implementing a RESTful application for tracking habits and personal goals. It includes CRUD operations, layered architecture, request validation, database versioning with Liquibase, reminder functionality, and controller unit testing.
